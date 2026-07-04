@@ -106,18 +106,18 @@ The score is composed of four main categories.
 
 ### Restrictions
 
-Apps that are neither open source nor support editing map data can achieve a maximum rating of **C**.  
+Apps that are neither open source nor support editing map data can achieve a maximum rating of **C**. 
 This ensures that the score prioritizes apps that actively contribute to the OpenStreetMap community.
 
 ### Summary of Points Distribution
 
-| Category                               | Max. Points |
+| Category | Max. Points |
 | -------------------------------------- | ----------- |
-| **OSM Contribution**                   | 4           |
-| **Development Involvement**            | 3           |
-| **Availability and Accessibility**     | 2           |
-| **Community Channels & Documentation** | 1           |
-| **Total**                              | **10**      |
+| **OSM Contribution** | 4 |
+| **Development Involvement** | 3 |
+| **Availability and Accessibility** | 2 |
+| **Community Channels & Documentation** | 1 |
+| **Total** | **10** |
 
 ### Calculation
 
