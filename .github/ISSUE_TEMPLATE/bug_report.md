@@ -14,28 +14,28 @@ Before opening a new issue, please search for keywords in the issues filtered by
 
 ### Summary
 
-<!-- Summarize the bug encountered concisely -->
+<!, Summarize the bug encountered concisely, >
 
 ### Steps to reproduce
 
-<!-- How one can reproduce the bug - this is very important -->
+<!, How one can reproduce the bug - this is very important, >
 
 ### What is the current _bug_ behavior?
 
-<!-- What actually happens -->
+<!, What actually happens, >
 
 ### What is the expected _correct_ behavior?
 
-<!-- What you should see instead -->
+<!, What you should see instead, >
 
 ### Relevant logs and/or screenshots
 
-<!-- 
+<!, 
 Paste any relevant logs
 Please use code blocks (```) to format console output, logs, and code, as it's very hard to read otherwise.
 If applicable, we are happy to see screenshots or screenrecordings.
--->
+, >
 
 ### Possible fixes
 
-<!-- If you can, link to the line of code that might be responsible for the problem -->
+<!, If you can, link to the line of code that might be responsible for the problem, >
