@@ -109,13 +109,13 @@ Apps, die weder Open-Source sind noch das Bearbeiten von Kartendaten unterstütz
 
 ### Zusammenfassung der Punkteverteilung
 
-| Kategorie                            | Max. Punkte |
+| Kategorie | Max. Punkte |
 | ------------------------------------ | ----------- |
-| **OSM-Beteiligung**                  | 4           |
-| **Entwicklungsbeteiligung**          | 3           |
-| **Verfügbarkeit und Zugänglichkeit** | 2           |
-| **Community-Kanäle & Dokumentation** | 1           |
-| **Gesamt**                           | **10**      |
+| **OSM-Beteiligung** | 4 |
+| **Entwicklungsbeteiligung** | 3 |
+| **Verfügbarkeit und Zugänglichkeit** | 2 |
+| **Community-Kanäle & Dokumentation** | 1 |
+| **Gesamt** | **10** |
 
 ### Berechnung
 
